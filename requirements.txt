@@ -1,0 +1,63 @@
+# Core Language Model Framework
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# Graph Database
+neo4j
+
+# Embedding Models
+sentence-transformers
+torch
+
+# Vector Database (Open-source alternative)
+weaviate-client
+
+# Data Processing
+pandas
+numpy
+
+# Web Framework
+fastapi
+uvicorn
+pydantic
+
+# Database ORM
+sqlalchemy
+
+# Async Support
+aiohttp
+
+# Local LLM Support
+ollama
+
+# Monitoring & Logging
+prometheus-client
+python-json-logger
+
+# Utilities
+python-dotenv
+click
+rich
+tqdm
+
+# Testing
+pytest
+pytest-asyncio
+
+# Development
+black
+flake8
+mypy
+
+# Utilities for Embeddings and LLMs
+transformers
+huggingface-hub
+
+# Graph Visualization
+networkx
+matplotlib
+
+# YAML support
+pyyaml
