@@ -562,7 +562,7 @@ MIT License - See LICENSE file
 ```bibtex
 @software{adaptive_graph_rag,
   title={AdaptiveGraphRAG: Self-Evolving Knowledge Graph Intelligence},
-  author={NIHAR MAHESH JANI },
+  author={NIHAR MAHESH JANI},
   year={2025}
   url={https://github.com/NiharJani2002/AdaptiveGraphRAG}
 }
